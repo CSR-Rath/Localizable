@@ -90,4 +90,4 @@ extension String {
 // --> Select Project
 // --> Add Langluage
 // --> Create file String File (Legacy)
-// --> Click lo
+// --> Click Localizable and then add localizable
