@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Localizable
+
+  Created by Rath! on 12/11/24.
+  
+*/
+
+"greeting" = "Hello";
+"farewell" = "Goodbye";
+"change" = "Change";
